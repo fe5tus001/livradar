@@ -87018,7 +87018,7 @@ A.LQ.prototype={
 J(a){var s=null
 return A.jF(s,new A.mC(new A.a75(this),s),s,s,0,0,30,s)}}
 A.a75.prototype={
-$2(a,b){var s,r,q,p,o=null,n=b.b,m=n<400?n*0.2:n*0.5
+$2(a,b){var s,r,q,p,o=null,n=b.b,m=n<400?n*0.2:n*0.3
 n=A.fV(12)
 s=A.b([new A.b4(0,B.H,A.ay(B.c.aH(25.5),B.l.D()>>>16&255,B.l.D()>>>8&255,B.l.D()&255),B.eP,8)],t.V)
 r=this.a
